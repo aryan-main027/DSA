@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/aryan-main027/DSA/tree/master/1009-complement-of-base-10-integer) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aryan-main027/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
