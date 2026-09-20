@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1046-last-stone-weight](https://github.com/aryan-main027/DSA/tree/master/1046-last-stone-weight) |
 | [1748-sum-of-unique-elements](https://github.com/aryan-main027/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/aryan-main027/DSA/tree/master/1748-sum-of-unique-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/aryan-main027/DSA/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
