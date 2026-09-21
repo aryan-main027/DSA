@@ -17,10 +17,6 @@ class Solution {
             }
         }
         
-        if(pos == 0){
-            return n;
-        }
-        
         return (n-pos);
     }
 };
