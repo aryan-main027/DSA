@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/aryan-main027/DSA/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan-main027/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryan-main027/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/aryan-main027/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aryan-main027/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-main027/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryan-main027/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryan-main027/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/aryan-main027/DSA/tree/master/1046-last-stone-weight) |
 | [1539-kth-missing-positive-number](https://github.com/aryan-main027/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aryan-main027/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
