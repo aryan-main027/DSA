@@ -1,4 +1,4 @@
-# [Product Pair](https://www.geeksforgeeks.org/problems/equal-to-product3836/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks)
+# [Product Pair](https://www.geeksforgeeks.org/problems/equal-to-product3836/1)
 ## Medium
 Given an integer array arr[] and an integer target, determine whether there exists a pair of elements in the array whose product is equal to target.
 Return true if such a pair exists; otherwise, return false.
