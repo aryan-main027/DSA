@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/aryan-main027/DSA/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/aryan-main027/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/aryan-main027/DSA/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aryan-main027/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-sum-of-unique-elements](https://github.com/aryan-main027/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/aryan-main027/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/aryan-main027/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
