@@ -1,4 +1,4 @@
-# [Is Binary Tree Heap](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1?page=1&difficulty%5B%5D=1&category%5B%5D=Heap&sortBy=submissions)
+# [Is Binary Tree Heap](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1)
 ## Medium
 You are given the root of a binary tree, and the task is to determine whether it satisfies the properties of a max-heap.
 A binary tree is considered a max-heap if it satisfies the following conditions:
