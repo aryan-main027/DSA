@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryan-main027/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/aryan-main027/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aryan-main027/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryan-main027/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aryan-main027/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/aryan-main027/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryan-main027/DSA/tree/master/1929-concatenation-of-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryan-main027/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aryan-main027/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan-main027/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aryan-main027/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryan-main027/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Matrix
 |  |
 | ------- |
@@ -135,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aryan-main027/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryan-main027/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
