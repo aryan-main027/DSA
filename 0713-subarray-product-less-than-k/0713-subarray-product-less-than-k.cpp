@@ -4,6 +4,7 @@ public:
         int product = 1 , start = 0 , end = 0 , n = nums.size();
         int count = 0;
         while(end < n){
+            
             product *= nums[end];
 
             while(product>=k && start <= end){
