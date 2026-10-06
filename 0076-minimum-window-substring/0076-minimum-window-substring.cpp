@@ -7,6 +7,8 @@ public:
         int end = 0, start = 0, ans = INT_MAX, index = -1;
         int total = n;
 
+
+
         for (char c : t) {
             m[c]++;
         }
