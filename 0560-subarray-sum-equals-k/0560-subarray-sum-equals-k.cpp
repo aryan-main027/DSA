@@ -7,6 +7,9 @@ public:
 
         m[0] = 1;
 
+
+        
+
         for(int i = 0 ; i<nums.size() ; i++){
             prefixSum += nums[i];
 
