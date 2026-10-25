@@ -1,6 +1,7 @@
 class Solution {
 public:
     int num(char s){
+        
         if(s == 'I') return 1;
         else if (s == 'V') return 5;
         else if (s == 'X') return 10;
