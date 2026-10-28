@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryan-main027/DSA/tree/master/0053-maximum-subarray) |
 ## Stack
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-main027/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aryan-main027/DSA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aryan-main027/DSA/tree/master/0076-minimum-window-substring) |
 ## Database
 |  |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/aryan-main027/DSA/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aryan-main027/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/aryan-main027/DSA/tree/master/1683-invalid-tweets) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
