@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/aryan-main027/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryan-main027/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryan-main027/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aryan-main027/DSA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/aryan-main027/DSA/tree/master/0125-valid-palindrome) |
 ## Database
 |  |
 | ------- |
