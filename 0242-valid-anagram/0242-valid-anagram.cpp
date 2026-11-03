@@ -13,11 +13,21 @@ public:
 
         // return false;
 
-        vector<char>ch(26,0);
+        vector<int>ch(26,0);
 
         for(char c:s){
-            
+            ch[c-'a']++;
         }
+
+        for(char c:t){
+            ch[c-'a']--;
+        }
+
+        for(auto x:ch){
+            if(x != 0) return false;
+        }
+
+        return true;
     }
 };
 
