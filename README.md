@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-main027/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aryan-main027/DSA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/aryan-main027/DSA/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/aryan-main027/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-main027/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan-main027/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan-main027/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aryan-main027/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aryan-main027/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/aryan-main027/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-main027/DSA/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-main027/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Database
