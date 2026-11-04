@@ -90,17 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aryan-main027/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/aryan-main027/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-main027/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan-main027/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan-main027/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/aryan-main027/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aryan-main027/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-main027/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/aryan-main027/DSA/tree/master/1046-last-stone-weight) |
 ## Ternary Search
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-main027/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aryan-main027/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aryan-main027/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryan-main027/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Quickselect
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aryan-main027/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aryan-main027/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-main027/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-main027/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Database
 |  |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aryan-main027/DSA/tree/master/0051-n-queens) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
