@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aryan-main027/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aryan-main027/DSA/tree/master/0053-maximum-subarray) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-main027/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aryan-main027/DSA/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/aryan-main027/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/aryan-main027/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryan-main027/DSA/tree/master/0242-valid-anagram) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 | [1672-richest-customer-wealth](https://github.com/aryan-main027/DSA/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aryan-main027/DSA/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aryan-main027/DSA/tree/master/0051-n-queens) |
 ## Bucket Sort
 |  |
@@ -237,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aryan-main027/DSA/tree/master/0796-rotate-string) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
