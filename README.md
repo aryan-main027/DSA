@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aryan-main027/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-main027/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-main027/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/aryan-main027/DSA/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan-main027/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0485-max-consecutive-ones](https://github.com/aryan-main027/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan-main027/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aryan-main027/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryan-main027/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryan-main027/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aryan-main027/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aryan-main027/DSA/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
