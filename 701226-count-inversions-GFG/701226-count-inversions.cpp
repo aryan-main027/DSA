@@ -12,6 +12,8 @@ public:
                 temp.push_back(arr[a++]);
             }
             else {
+                
+                
                 count += (mid - a + 1);
                 temp.push_back(arr[b++]);
             }
