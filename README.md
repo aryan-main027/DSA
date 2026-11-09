@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aryan-main027/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/aryan-main027/DSA/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/aryan-main027/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryan-main027/DSA/tree/master/1929-concatenation-of-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aryan-main027/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aryan-main027/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aryan-main027/DSA/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-main027/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryan-main027/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/aryan-main027/DSA/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aryan-main027/DSA/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
