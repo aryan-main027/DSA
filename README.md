@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aryan-main027/DSA/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/aryan-main027/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryan-main027/DSA/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aryan-main027/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryan-main027/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/aryan-main027/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryan-main027/DSA/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aryan-main027/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryan-main027/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryan-main027/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryan-main027/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aryan-main027/DSA/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aryan-main027/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
