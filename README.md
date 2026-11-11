@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aryan-main027/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aryan-main027/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryan-main027/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/aryan-main027/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryan-main027/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/aryan-main027/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryan-main027/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-main027/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aryan-main027/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/aryan-main027/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aryan-main027/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/aryan-main027/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aryan-main027/DSA/tree/master/0205-isomorphic-strings) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryan-main027/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aryan-main027/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/aryan-main027/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/aryan-main027/DSA/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
