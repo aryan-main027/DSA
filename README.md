@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aryan-main027/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryan-main027/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aryan-main027/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aryan-main027/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aryan-main027/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aryan-main027/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aryan-main027/DSA/tree/master/0204-count-primes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/aryan-main027/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aryan-main027/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aryan-main027/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryan-main027/DSA/tree/master/0054-spiral-matrix) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aryan-main027/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aryan-main027/DSA/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aryan-main027/DSA/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
