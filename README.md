@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/aryan-main027/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/aryan-main027/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/aryan-main027/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-main027/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aryan-main027/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/aryan-main027/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryan-main027/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -325,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryan-main027/DSA/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
