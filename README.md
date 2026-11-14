@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryan-main027/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aryan-main027/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aryan-main027/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aryan-main027/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aryan-main027/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aryan-main027/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aryan-main027/DSA/tree/master/0258-add-digits) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryan-main027/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aryan-main027/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aryan-main027/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryan-main027/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
@@ -334,5 +336,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryan-main027/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
