@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aryan-main027/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aryan-main027/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/aryan-main027/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/aryan-main027/DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aryan-main027/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/aryan-main027/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aryan-main027/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aryan-main027/DSA/tree/master/0125-valid-palindrome) |
