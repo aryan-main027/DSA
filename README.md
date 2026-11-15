@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aryan-main027/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-main027/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-main027/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/aryan-main027/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/aryan-main027/DSA/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan-main027/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0485-max-consecutive-ones](https://github.com/aryan-main027/DSA/tree/master/0485-max-consecutive-ones) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aryan-main027/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/aryan-main027/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aryan-main027/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/aryan-main027/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryan-main027/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan-main027/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryan-main027/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aryan-main027/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/aryan-main027/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aryan-main027/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aryan-main027/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-main027/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/aryan-main027/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryan-main027/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/aryan-main027/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryan-main027/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aryan-main027/DSA/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
