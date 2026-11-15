@@ -20,6 +20,8 @@ public:
 
         // dp[0]=0,dp[1]=1;
 
+
+
         // Bottom Up Approch (Time = O(N) , Space = O(N))
         // for(int i=2;i<n+1;i++){
         //     dp[i]=dp[i-1]+dp[i-2];       
@@ -28,9 +30,9 @@ public:
         // return dp[n];
 
         // Space Optimization 
-        // 
+        // Time = O(N) , Space = O(2) ~ O(1)
         vector<int>dp(2);
-        dp[0]=0,dp[1]=1;
+         dp[0]=0,dp[1]=1;
 
         for(int i=2;i<=n;i++){
             int curr = dp[0] + dp[1];
