@@ -1,40 +1,46 @@
+
 class Solution {
 public:
-    int shipWithinDays(vector<int>& arr, int k) {
-        int n = arr.size();
-        
-        int ans = -1;
-        int start = 0 , end = 0 ;
-        for(int i = 0 ; i<n ; i++){
-            start = max(start,arr[i]);
-            end += arr[i];
-        }
-        
-        while(start <= end){
-            int mid = start + (end - start)/2;
-            
-            int h = 1 , pages = 0 ;
-            
-            for(int i = 0 ; i<n ; i++){
-                if(mid >= (pages + arr[i]))
-                    pages += arr[i];
-                else {
-                    h++;
-                    pages = arr[i];
-                }
+
+    int Days(vector<int>& weights, int x) {
+        int count_weight = 0, day = 1;
+
+        for (int i = 0; i < weights.size(); i++) {
+            if (x >= count_weight + weights[i]) {
+                count_weight += weights[i];
+            } else {
+                day++;
+                count_weight = weights[i];
             }
-            
-            if(k >= h){
+        }
+
+        return day;
+    }
+
+    int shipWithinDays(vector<int>& weights, int days) {
+
+        int low = *max_element(weights.begin(), weights.end());
+        int high = accumulate(weights.begin(), weights.end(), 0);
+
+        int ans = high;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            int total_days = Days(weights, mid);
+
+            if (total_days <= days) {
                 ans = mid;
-                end = mid - 1;
-            }else {
-                start = mid + 1;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
-        
+
         return ans;
     }
 };
+
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
