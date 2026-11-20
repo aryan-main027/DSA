@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-main027/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan-main027/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/aryan-main027/DSA/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/aryan-main027/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/aryan-main027/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryan-main027/DSA/tree/master/0704-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aryan-main027/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/aryan-main027/DSA/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aryan-main027/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/aryan-main027/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/aryan-main027/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aryan-main027/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan-main027/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-main027/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/aryan-main027/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan-main027/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aryan-main027/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan-main027/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryan-main027/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aryan-main027/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryan-main027/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0410-split-array-largest-sum](https://github.com/aryan-main027/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/aryan-main027/DSA/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryan-main027/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-main027/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Algorithm X
