@@ -5,6 +5,7 @@ public:
         int sum = 0, copy_k = 1;
 
         for (int i = 0; i < nums.size(); i++) {
+            
             if (mid >= sum + nums[i]) {
                 sum += nums[i];
             } else {
