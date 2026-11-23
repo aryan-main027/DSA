@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryan-main027/DSA/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/aryan-main027/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aryan-main027/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryan-main027/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/aryan-main027/DSA/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/aryan-main027/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-main027/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Database
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryan-main027/DSA/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/aryan-main027/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
 | ------- |
