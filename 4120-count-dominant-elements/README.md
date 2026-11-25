@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-dominant-elements">4120. Count Dominant Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-dominant-elements">4485. Count Dominant Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>An element in <code>nums</code> is called <strong>dominant</strong> if it is <strong>greater than or equal to</strong> the average of its immediate neighbors.</p>
 
