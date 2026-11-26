@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/aryan-main027/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan-main027/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/aryan-main027/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-main027/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/aryan-main027/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/aryan-main027/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan-main027/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/aryan-main027/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryan-main027/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/aryan-main027/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/aryan-main027/DSA/tree/master/1920-build-array-from-permutation) |
