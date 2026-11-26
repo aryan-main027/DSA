@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/aryan-main027/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/aryan-main027/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aryan-main027/DSA/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan-main027/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/aryan-main027/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/aryan-main027/DSA/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan-main027/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Newton's Method
 |  |
 | ------- |
